@@ -23,7 +23,7 @@
 <a href="https://medium.com/@luizfelipe-dev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-luizfelipedev-05122A?style=flat&logo=medium" alt="medium"/>
 </a>
-<a href="https://youtube.com/luiz-developer" target="_blank">
+<a href="https://youtube.com/@luiz-developer" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-luizdeveloper-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 <a href="https://instagram.com/luizsoliveira" target="_blank">
