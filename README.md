@@ -12,7 +12,7 @@
 
 - 👨‍💻 More at [luizfelipe.com.br](https://luizfelipe.com.br/)
 
-<br><br>
+<br>
 
 ## Contact
 
