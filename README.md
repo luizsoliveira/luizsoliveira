@@ -12,8 +12,6 @@
 
 - 👨‍💻 More at [luizfelipe.com.br](https://luizfelipe.com.br/)
 
-<!--
-
 <br><br>
 
 ## Contact
@@ -23,10 +21,10 @@
   <img align="center" src="https://img.shields.io/badge/-luizsoliveira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://medium.com/@luizfelipe-dev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-luizfelipe-dev-05122A?style=flat&logo=medium" alt="medium"/>
+  <img align="center" src="https://img.shields.io/badge/-luizfelipedev-05122A?style=flat&logo=medium" alt="medium"/>
 </a>
 <a href="https://youtube.com/luiz-developer" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-luiz-developer-05122A?style=flat&logo=youtube" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-luizdeveloper-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 <a href="https://instagram.com/luizsoliveira" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-luizsoliveira-05122A?style=flat&logo=instagram" alt="instagram"/>
