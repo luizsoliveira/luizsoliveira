@@ -6,7 +6,7 @@
 
 - ▶️ My Youtube channel [youtube.com/luiz-developer](https://www.youtube.com/@luiz-developer)
 
-- 💬 Ask me about **Docker, Linux, AWS, JS, NodeJS, React, Elasticsearch, PostgreSQL, PostgREST, Python, Flask, PHP, Symfony, MongoDB, MySQL, Redis, among others.**
+- 💬 Ask me about **Docker, Linux, AWS, JS, NodeJS and React.**
 
 - ⚡ Fun fact: When I am not coding, you can find me in a sailboat.
 
