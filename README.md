@@ -1,12 +1,12 @@
 <h1 align="left">Hi, I'm Luiz Oliveira</h1>
 
-- 🔥 Ph.D. | Senior Software Engineer | Docker | AWS | PHP | JS | Node.JS
+- 🔥 Ph.D. | Senior Software Engineer | TypeScript | Python | Docker | AWS
 
 - 🔭 I’m currently working at [Simon Fraser University](https://www.sfu.ca/)
 
 - ▶️ My Youtube channel [youtube.com/luiz-developer](https://www.youtube.com/@luiz-developer)
 
-- 💬 Ask me about **Docker, Linux, AWS, JS, NodeJS and React.**
+- 💬 Ask me about **Docker, Linux, AWS, JS, React and Python.**
 
 - ⚡ Fun fact: When I am not coding, you can find me in a sailboat.
 
